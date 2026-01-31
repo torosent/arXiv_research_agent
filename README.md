@@ -366,7 +366,6 @@ arxiv-research-agent/
 │   ├── orchestrations.py  # DurableTask orchestrations
 │   ├── worker.py          # Worker process
 │   ├── client.py          # FastAPI REST API
-│   ├── cli.py             # Command-line interface
 │   ├── models.py          # Data models
 │   ├── llm.py             # Azure OpenAI LLM utilities
 │   └── arxiv_api.py       # arXiv API client with rate limiting
